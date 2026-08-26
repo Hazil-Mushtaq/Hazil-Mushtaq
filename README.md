@@ -132,28 +132,7 @@ LEARN
        REPEAT
 
 
----
-
-📊 GitHub Statistics
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hazil-Mushtaq&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazil-Mushtaq&layout=compact&theme=tokyonight&hide_border=true" height="170"/></div>
----
-
-🔥 Contribution Streak
-
-<div align="center"><img src="https://streak-stats.demolab.com?user=Hazil-Mushtaq&theme=tokyonight&hide_border=true"/></div>
----
-
-🏆 GitHub Achievements
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Hazil-Mushtaq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /></div>
----
-
-🐍 Contribution Graph
-
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/></div>
----
-
+ 
 🎓 Education
 
 Bachelor of Computer Applications — BCA
@@ -201,6 +180,3 @@ Become a highly skilled Software & Security Engineer capable of designing, devel
 > Don't just learn. Build.
 
 Thanks for visiting my profile! ⭐
-
-</div>
-```
