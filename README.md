@@ -18,9 +18,6 @@
 
 
 
-### 👀 3. Profile visitor counter
-
-```markdown
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hazil-Mushtaq&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
