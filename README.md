@@ -1,3 +1,44 @@
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hazil+Mushtaq+%F0%9F%91%8B;BCA+Student+%7C+Developer;Cybersecurity+Enthusiast+%F0%9F%94%90;I+Build.+I+Learn.+I+Explore.;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing animation"/>
+
+</div>
+
+
+## 🧬 Developer DNA
+
+```text
+┌─────────────────────────────────────┐
+│                                     │
+│  💻 CODE        →  BUILD            │
+│  🧠 KNOWLEDGE   →  UNDERSTAND       │
+│  🔐 SECURITY    →  PROTECT          │
+│  🧪 EXPERIMENT  →  DISCOVER         │
+│  🚀 PROJECTS    →  GROW             │
+│                                     │
+└─────────────────────────────────────┘
+
+
+
+### 👀 3. Profile visitor counter
+
+```markdown
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hazil-Mushtaq&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+
+</div>
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hazil-Mushtaq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
+
+
+
 # 👋 Hi, I'm Hazil Mushtaq
 
 <div align="center">
@@ -79,17 +120,6 @@ Cybersecurity
 Ethical Hacking
 Git & GitHub
 Software Engineering
-
-
-
-GitHub Statistics
-�
-
-�
-￼
-�
-￼
-�
 
 
 Learn. Build. Break. Fix. Repeat.
