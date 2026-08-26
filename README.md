@@ -1,11 +1,8 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hazil+Mushtaq+%F0%9F%91%8B;BCA+Student+%7C+Developer;Cybersecurity+Enthusiast+%F0%9F%94%90;I+Build.+I+Learn.+I+Explore.;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing animation"/>
 
 </div>
-
-
 ## 🧬 Developer DNA
 
 ```text
