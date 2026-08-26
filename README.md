@@ -58,37 +58,6 @@ BUILD
 
 ---
 
-🛠️ Technologies & Tools
-
-💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
-</p>🌐 Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
-</p>🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>🧰 Tools & Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
----
-
-🚀 Projects
-
-📱 NoorZikrApp
-
-An Islamic-focused application designed to provide useful Islamic content and features in a simple and accessible way.
-
-🔗 Explore the project in my repositories.
-
-
----
 
 🕌 Islamic Calendar Pro
 
@@ -225,32 +194,11 @@ Become a highly skilled Software & Security Engineer capable of designing, devel
 💡 Developer Philosophy
 
 > Don't just use technology. Understand it.
-
-
-
 > Don't just write code. Understand what it does.
-
-
-
 > Don't just find vulnerabilities. Understand why they exist.
 
 
-
 > Don't just learn. Build.
-
-
-
-
----
-
-📫 Connect With Me
-
-<div align="center"><a href="https://github.com/Hazil-Mushtaq">
-<img src="https://img.shields.io/badge/GitHub-Hazil--Mushtaq-181717?style=for-the-badge&logo=github"/>
-</a></div>
----
-
-<div align="center">⚡ Learn. Build. Break. Fix. Repeat.
 
 Thanks for visiting my profile! ⭐
 
